@@ -1,6 +1,6 @@
 # UQO_project_inf1573
 
-ystème de Transport Public
+système de Transport Public
 
 Ce projet vise à créer un système de transport public intelligent qui offre des fonctionnalités avancées pour aider les utilisateurs à planifier leurs trajets de manière optimale et à optimiser l'efficacité du réseau de transport.
 
